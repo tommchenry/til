@@ -8,7 +8,7 @@ but you can just type
 
 `git push origin head`
 
-and Git knows that `head` means `feature-some-feature-this-is-a-branch`
+and git knows that `head` means `feature-some-feature-this-is-a-branch`
 
 ## Bonus Points
 
