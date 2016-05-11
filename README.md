@@ -45,4 +45,9 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Better Window Switching](vim/better-window-switching.md)
 - [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
 - [List All Registers](vim/list-all-registers.md)
+- [Refresh CtrlP](vim/refresh-ctrlp.md)
 
+### Tmux
+
+- [Add Mouse Support](tmux/add-mouse-support.md)
+- [Add Vim Pane Switching](tmux/add-vim-pane-switching.md)
