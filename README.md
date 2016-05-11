@@ -16,6 +16,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ---
 
+
 ### Capybara
 
 - [View a Screenshot](capybara/view-a-screenshot.md)
