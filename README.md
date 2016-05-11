@@ -11,6 +11,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Capybara](#capybara)
 * [Git](#git)
 * [GitHub](#github)
+* [Slack](#slack)
 * [Vim](#vim)
 
 ---
@@ -30,6 +31,12 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
 - [Quit Typing Your Password](github/quit-typing-your-password.md)
+
+### Slack
+
+- [Collapse All Gifs](slack/collapse-all-gifs.md)
+- [Mark All As Read](slack/mark-all-as-read.md)
+- [Quick Navigating](slack/quick-navigating.md)
 
 ### Vim
 
