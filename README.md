@@ -22,6 +22,9 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Git
 
+- [Do a Good Rebase](git/do-a-good-rebase.md)
+- [My Git Aliases](git/my-git-aliases.md)
+- [Quit Typing the Branch Name](git/quit-typing-the-branch-name.md)
 
 ### GitHub
 
@@ -30,5 +33,5 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Vim
 
-- [Delete Whitespace At End Of Line](vim/delete-whitespace-at-end-of-line.md)
+- [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
 - [List All Registers](vim/list-all-registers.md)
