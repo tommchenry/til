@@ -1,6 +1,6 @@
 # Better Window Switching
 
-For a long time I was using
+For a long time I had these lines in my `.vimrc`
 
 ```
 nnoremap <leader>s :sp<CR>
