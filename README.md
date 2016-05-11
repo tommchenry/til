@@ -33,5 +33,5 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Vim
 
-- [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
+- [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-lines.md)
 - [List All Registers](vim/list-all-registers.md)
