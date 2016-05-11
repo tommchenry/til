@@ -24,6 +24,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Do a Good Rebase](git/do-a-good-rebase.md)
 - [My Git Aliases](git/my-git-aliases.md)
+- [Quit Typing the Branch Name](git/quit-typing-the-branch-name.md)
 
 ### GitHub
 
