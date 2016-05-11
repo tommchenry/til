@@ -16,6 +16,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ---
 
+
 ### Capybara
 
 - [View a Screenshot](capybara/view-a-screenshot.md)
@@ -41,5 +42,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Vim
 
+- [Better Window Switching](vim/better-window-switching.md)
 - [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
 - [List All Registers](vim/list-all-registers.md)
+
