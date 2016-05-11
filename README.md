@@ -9,6 +9,8 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Categories
 
 * [Capybara](#capybara)
+* [Git](#git)
+* [GitHub](#github)
 * [Vim](#vim)
 
 ---
@@ -17,6 +19,14 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [View a Screenshot](capybara/view-a-screenshot.md)
 - [View the HTML](capybara/view-the-html.md)
+
+### Git
+
+
+### GitHub
+
+- [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
+- [Quit Typing Your Password](github/quit-typing-your-password.md)
 
 ### Vim
 
