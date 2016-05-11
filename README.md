@@ -43,9 +43,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Vim
 
 - [Better Window Switching](vim/better-window-switching.md)
-- [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
+- [Delete Whitespaces at End of Lines](vim/delete-whitespace-at-end-of-line.md)
 - [List All Registers](vim/list-all-registers.md)
 - [Refresh CtrlP](vim/refresh-ctrlp.md)
+- [Set Space as Leader](vim/set-space-as-leader.md)
 
 ### Tmux
 
