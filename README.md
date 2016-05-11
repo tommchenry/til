@@ -26,8 +26,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Git
 
 - [Do a Good Rebase](git/do-a-good-rebase.md)
+- [Interactive Rebases](git/interactive-rebases.md)
 - [My Git Aliases](git/my-git-aliases.md)
 - [Quit Typing the Branch Name](git/quit-typing-the-branch-name.md)
+- [Squash](git/squash.md)
 
 ### GitHub
 
@@ -43,9 +45,14 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Vim
 
 - [Better Window Switching](vim/better-window-switching.md)
-- [Delete Whitespaces At End Of Lines](vim/delete-whitespace-at-end-of-line.md)
+- [Delete Whitespaces at End of Lines](vim/delete-whitespace-at-end-of-line.md)
 - [List All Registers](vim/list-all-registers.md)
 - [Refresh CtrlP](vim/refresh-ctrlp.md)
+- [Set Space as Leader](vim/set-space-as-leader.md)
+
+### Rspec
+
+- [Before-Each-Versus-Before-All](rspec/before-each-versus-before-all.md)
 
 ### Tmux
 
