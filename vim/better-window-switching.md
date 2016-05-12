@@ -13,7 +13,7 @@ and swiped the better:
 
 ```
 nnoremap <leader>v <C-w>v<C-w>l
-nnoremap <leader>s <C-w>s<C-w>j
+nnoremap <leader>s <C-w>S<C-w>j
 ```
 
 This way, opening a new split automatically bumps your cursor to the new split.
