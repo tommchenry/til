@@ -25,6 +25,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Git
 
+- [Apply One Commit at a Time](git/apply-one-commit-at-a-time.md)
 - [Do a Good Rebase](git/do-a-good-rebase.md)
 - [Interactive Rebases](git/interactive-rebases.md)
 - [My Git Aliases](git/my-git-aliases.md)
@@ -53,6 +54,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Rspec
 
 - [Before-Each-Versus-Before-All](rspec/before-each-versus-before-all.md)
+- [Stub-a-Method](rspec/stub-a-method.md)
 
 ### Tmux
 
