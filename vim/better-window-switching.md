@@ -12,7 +12,7 @@ article](http://stevelosh.com/blog/2010/09/coming-home-to-vim/#important-vimrc-l
 and swiped the better:
 
 ```
-nnoremap <leader>w <C-w>v<C-w>l
+nnoremap <leader>v <C-w>v<C-w>l
 nnoremap <leader>s <C-w>s<C-w>j
 ```
 
