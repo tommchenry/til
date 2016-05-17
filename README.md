@@ -61,3 +61,4 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Add Mouse Support](tmux/add-mouse-support.md)
 - [Add Vim Pane Switching](tmux/add-vim-pane-switching.md)
+- [Sessions](tmux/sessions.md)
