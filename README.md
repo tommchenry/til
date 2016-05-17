@@ -54,7 +54,8 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Rspec
 
 - [Before Each Versus Before All](rspec/before-each-versus-before-all.md)
-- [Stub a Method](rspec/stub-a-method.md)
+- [Let vs. Let!](rspec/let-vs-let.md)
+- [Stub-a-Method](rspec/stub-a-method.md)
 
 ### Tmux
 
