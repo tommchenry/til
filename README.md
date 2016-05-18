@@ -43,7 +43,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Before Each Versus Before All](rspec/before-each-versus-before-all.md)
 - [Let vs. Let!](rspec/let-vs-let.md)
-- [Stub-a-Method](rspec/stub-a-method.md)
+- [Stub a Method](rspec/stub-a-method.md)
 
 ### Slack
 
