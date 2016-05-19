@@ -35,6 +35,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Quit Typing the Branch Name](git/quit-typing-the-branch-name.md)
 - [Squash](git/squash.md)
 
+### Javascript
+
+- [Query Like jQuery](js/query-like-jquery.md)
+
 ### GitHub
 
 - [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
