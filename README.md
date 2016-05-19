@@ -11,6 +11,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Capybara](#capybara)
 * [Git](#git)
 * [GitHub](#github)
+* [Javascript](#javascript)
 * [Rspec](#rspec)
 * [Slack](#slack)
 * [Tmux](#tmux)
@@ -35,19 +36,21 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Quit Typing the Branch Name](git/quit-typing-the-branch-name.md)
 - [Squash](git/squash.md)
 
-### Javascript
-
-- [Query Like jQuery](js/query-like-jquery.md)
-
 ### GitHub
 
 - [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
 - [Quit Typing Your Password](github/quit-typing-your-password.md)
 
+### Javascript
+
+- [Query Like jQuery](js/query-like-jquery.md)
+
 ### Rspec
 
 - [Before Each Versus Before All](rspec/before-each-versus-before-all.md)
 - [Let vs. Let!](rspec/let-vs-let.md)
+- [Run a Spec to Death](rspec/run-a-spec-to-death.md)
+- [Run Code After Failing Spec](rspec/run-code-after-failing-spec.md)
 - [Stub a Method](rspec/stub-a-method.md)
 
 ### Slack
