@@ -22,7 +22,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Capybara
 
-- [Change The Default Wait Time](capybara/change-the-default-wait-time)
+- [Change The Default Wait Time](capybara/change-the-default-wait-time.md)
 - [View a Screenshot](capybara/view-a-screenshot.md)
 - [View the HTML](capybara/view-the-html.md)
 - [Wait Until Something Loads](capybara/wait-until-something-loads.md)
