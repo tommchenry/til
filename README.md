@@ -11,6 +11,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Capybara](#capybara)
 * [Git](#git)
 * [GitHub](#github)
+* [Haml](#haml)
 * [Javascript](#javascript)
 * [Rspec](#rspec)
 * [Slack](#slack)
@@ -22,7 +23,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Capybara
 
-- [Change The Default Wait Time](capybara/change-the-default-wait-time.md)
+- [Change The Default Wait Time](capybara/change-the-default-wait-time)
 - [View a Screenshot](capybara/view-a-screenshot.md)
 - [View the HTML](capybara/view-the-html.md)
 - [Wait Until Something Loads](capybara/wait-until-something-loads.md)
@@ -40,6 +41,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
 - [Quit Typing Your Password](github/quit-typing-your-password.md)
+
+### Haml
+
+- [Render a Rails Partial](haml/render-a-rails-partial.md)
 
 ### Javascript
 
