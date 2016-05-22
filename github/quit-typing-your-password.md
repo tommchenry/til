@@ -40,7 +40,7 @@ Now you'll need to change your remote URL from HTTPS to SSH.
 something like `https://github.com/USERNAME/OTHERREPOSITORY.git` or else you're
 already done.
 
-You'll need to type `git remote set-url git@github.com:USERNAME/OTHERREPOSITORY.git`
+You'll need to type `git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git`
 (where USERNAME and OTHERREPOSITORY are your GitHub username and repo,
 respectively).
 
