@@ -14,6 +14,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Haml](#haml)
 * [Javascript](#javascript)
 * [Rspec](#rspec)
+* [Ruby](#ruby)
 * [Slack](#slack)
 * [Tmux](#tmux)
 * [Vim](#vim)
@@ -57,6 +58,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Run a Spec to Death](rspec/run-a-spec-to-death.md)
 - [Run Code After Failing Spec](rspec/run-code-after-failing-spec.md)
 - [Stub a Method](rspec/stub-a-method.md)
+
+### Ruby
+
+- [Succinct Intersection Check](ruby/succinct-intersection-check.md)
 
 ### Slack
 
