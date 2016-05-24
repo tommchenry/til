@@ -26,3 +26,6 @@ To detach from the current session:
 tmux detach
 ```
 
+To rename the current session:
+
+`prefix key` + `$`
