@@ -12,6 +12,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Git](#git)
 * [GitHub](#github)
 * [Haml](#haml)
+* [Heroku](#heroku)
 * [Javascript](#javascript)
 * [Rspec](#rspec)
 * [Ruby](#ruby)
@@ -46,6 +47,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Haml
 
 - [Render a Rails Partial](haml/render-a-rails-partial.md)
+
+### Heroku
+
+- [Dealing With Dynos](heroku/dealing-with-dynos.md)
 
 ### Javascript
 
