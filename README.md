@@ -72,6 +72,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 ### Ruby
 
 - [Succinct Intersection Check](ruby/succinct-intersection-check.md)
+- [Turn a String Into a Date](ruby/turn-a-string-into-a-date.md)
 
 ### Slack
 
