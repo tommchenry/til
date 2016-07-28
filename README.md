@@ -14,6 +14,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 * [Haml](#haml)
 * [Heroku](#heroku)
 * [Javascript](#javascript)
+* [Rails](#rails)
 * [Rspec](#rspec)
 * [Ruby](#ruby)
 * [Slack](#slack)
@@ -56,6 +57,10 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Query Like jQuery](js/query-like-jquery.md)
 
+### Rails
+- [Ngrok](rails/ngrok.md)
+- [Quit Exiting Console](rails/quit-exiting-console.md)
+
 ### Rspec
 
 - [Before Each Versus Before All](rspec/before-each-versus-before-all.md)
@@ -80,6 +85,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Add Mouse Support](tmux/add-mouse-support.md)
 - [Add Vim Pane Switching](tmux/add-vim-pane-switching.md)
+- [Copy Paste Buffers](tmux/copy-paste-buffers.md)
 - [Sessions](tmux/sessions.md)
 
 ### Vim
