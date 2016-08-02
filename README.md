@@ -58,8 +58,11 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Query Like jQuery](js/query-like-jquery.md)
 
 ### Rails
+
+- [I18n String Interpolation](rails/I18n-string-interpolation.md)
 - [Ngrok](rails/ngrok.md)
 - [Quit Exiting Console](rails/quit-exiting-console.md)
+- [YAML Block Literals](rails/yaml-block-literals.md)
 
 ### Rspec
 
