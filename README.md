@@ -44,6 +44,8 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 - [Purpose of the Squirrel](github/purpose-of-the-squirrel.md)
 - [Quit Typing Your Password](github/quit-typing-your-password.md)
+- [See Only Tickets Where You're
+  Mentioned](github/see-only-tickets-where-youre-mentioned.md)
 
 ### Haml
 
