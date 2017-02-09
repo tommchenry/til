@@ -1,7 +1,7 @@
 # til
-:shipit: One Cool Trick, Some Filler 
+:shipit: One Cool Trick, Some Filler
 
-Short write-ups on things I learned each day. 
+Short write-ups on things I learned each day.
 
 Idea swiped from [Josh Branchaud's own TIL
 set](https://github.com/jbranchaud/til/blob/master/README.md).
@@ -61,6 +61,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ### Rails
 
+- [Starting A New Rails Project](rails/starting-a-new-rails-project.md)
 - [I18n String Interpolation](rails/I18n-string-interpolation.md)
 - [Ngrok](rails/ngrok.md)
 - [Quit Exiting Console](rails/quit-exiting-console.md)
@@ -91,6 +92,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Add Mouse Support](tmux/add-mouse-support.md)
 - [Add Vim Pane Switching](tmux/add-vim-pane-switching.md)
 - [Copy Paste Buffers](tmux/copy-paste-buffers.md)
+- [Quick Vim Pane](tmux/quick-vim-pane.md)
 - [Sessions](tmux/sessions.md)
 
 ### Vim
