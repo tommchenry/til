@@ -64,6 +64,7 @@ set](https://github.com/jbranchaud/til/blob/master/README.md).
 - [Starting A New Rails Project](rails/starting-a-new-rails-project.md)
 - [I18n String Interpolation](rails/I18n-string-interpolation.md)
 - [Ngrok](rails/ngrok.md)
+- [Heroku Procfile](rails/heroku-procfile.md)
 - [Quit Exiting Console](rails/quit-exiting-console.md)
 - [YAML Block Literals](rails/yaml-block-literals.md)
 
